@@ -1,0 +1,64 @@
+body {
+    background-image: url("flowers2.png");
+    background-size: cover;
+    font-family: Roboto, Ubuntu, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    background-repeat: no-repeat;
+    
+}
+
+h1 {
+    background-color: #7161ef;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 16px;
+    width: fit-content;
+    margin:10px auto;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    background-color: #957fef;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 16px;
+    width: fit-content;
+    margin:0 auto 20px auto;
+}
+
+button {
+    border: none;
+    padding:18px 0;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: #957fef;
+    cursor:pointer;
+}
+
+#save-btn {
+    background: #57cc99;
+     cursor:pointer;
+}
+
+#save-el {
+    background-color: #efd9ce;
+      padding: 10px 20px;
+    border-radius: 16px;
+    width: fit-content;
+    margin:0 auto 20px auto;
+    color: #564592;
+}
+div {
+    max-width: 720px;
+    margin:0 auto
+}
+
