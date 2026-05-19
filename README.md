@@ -1,4 +1,4 @@
-# Licznik Podlanych Roślin (Plants Counter App) 🌿💧
+# Licznik Podlanych Roślin
 
 Prosta, funkcjonalna aplikacja webowa służąca do monitorowania i zapisywania liczby podlanych roślin. Projekt stanowi praktyczną realizację podstaw programowania interaktywnego z wykorzystaniem czystego języka **JavaScript (Vanilla JS)**, struktury **HTML5** oraz stylów **CSS3**.
 
